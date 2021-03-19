@@ -10,3 +10,5 @@ generally, each implementation alters the ability of the RL agent to be able to 
 The second concept - the training data - refers to the data that is used to inform an RL agent’s understanding of an environment and thus, used to inform its decisions. This training data (unlike that in other types of machine learning) is not produced by any external agents but instead must be only made using our agent’s current understanding. The way this training data is produced is known as a training data methodology and the impact of changing the methodology upon our RL agent’s performance will also be studied.
 
 For each concept, different implementations have been implemented as agents trained play 4x4 and 5x5 Tic Tac Toe. Results are shown in the report.
+
+Run tictactoe.py to launch program.
